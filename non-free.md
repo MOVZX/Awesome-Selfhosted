@@ -2,10 +2,9 @@
 
 **Software listed here does not allow you to run it for any purpose, study, modify or distribute the source code.** Some of the software here may not be audited due to its closed source nature, and can therefore contain anti-features, such as but not limited to: undisclosed security vulnerabilties, backdoors, user lock-in, sending personal data to a third party.
 
-
 ## Analytics
 
-  * [Mint](http://haveamint.com/) `⊘ Proprietary` - Extensible self-hosted web analytics, license costs $30 per site. ([Demo](http://mimeoverse.com/mint/)) `PHP`
+  * [SessionRecord](https://sessionrecord.com/) `⊘ Proprietary` - SessionRecord is a website visitor recording software meant for identifying UI issues and fix them to improve site conversions. ([Demo](https://console.sessionrecord.com/test)) `Docker Nodejs`
 
 
 ## Content Management Systems (CMS)
@@ -17,26 +16,22 @@
 
 ## Communication Systems
 
-  * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` - A team chat solution with 1:1 chat audio and video, third party integration and more `PHP/Python`
-
+  * [Dialog](https://dlg.im) `⊘ Proprietary` - Handy and feature-rich multi-device solution with native mobile clients, SIP integration, chatbots, 3rd-party integrations. It brings communication efficiency without sacrificing privacy. Works in closed circuit, encrypts push notifications. ([Demo](https://dlg.im/en/download)) `Scala/Go`
+  * [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` - A team chat solution with 1:1 chat audio and video, third party integration and more. `PHP/Python`
+  * [PrivMX WebMail](https://privmx.com) - an alternative private mail system - web-based, end-to-end encrypted by design, self-hosted, decentralized, uses independent PKI. Easy to install and administrate, freeware, open-source. `PHP`
   
 ## Decentralized Network
 
   * [Synereo](https://www.synereo.com/) - Decentralized network system based on blockchain that allows fast speed and great trust level. ([Source Code](https://github.com/synereo/synereo)) `Scala`  
 
 ## Document Archiving
- * [Ambar](https://ambar.cloud) - Self-Hosted Smart Document Archive (OCR, Store & Search) ([Source Code](https://github.com/RD17/ambar)) `Fair Source 1 v0.9` `Nodejs/Python`  
+ * [Ambar](https://ambar.cloud) - Self-Hosted Smart Document Archive (OCR, Store & Search). ([Source Code](https://github.com/RD17/ambar)) `Fair Source 1 v0.9` `Nodejs/Python`  
   
 ## Federated Identity/Authentication
 
   * [Auth0](https://auth0.com/docs/appliance): `⊘ Proprietary`. Identity made simple for developers. `NodeJS`
 
   
-## Feed Readers
-
-  * [Fever](http://feedafever.com/) `⊘ Proprietary` - Self-hosted feed aggregator that can sort items by popularity `PHP`
-
-
 ## File Sharing and Synchronization
 
   * [Resilio Sync](https://www.resilio.com/) `⊘ Proprietary` - Resilio Sync by Resilio, Inc is a proprietary peer-to-peer file synchronisation tool.
@@ -82,7 +77,7 @@
   * [Duet](https://duetapp.com/) `⊘ Proprietary` - Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/demo/#dashboard)) `PHP`
   * [Solo](http://www.getsoloapp.com/) - Solo is a free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes. ([Demo](http://www.getsoloapp.com/demo/)) `PHP`
 
-  
+
 ## Proxy
   * [Glype](https://www.glype.com/) `⊘ Proprietary` - Web-based proxy script written in PHP which focuses on features, functionality, and ease of use. Glype helps users to defeat Internet censorship and be anonymous while web browsing. `[Custom license](https://www.glype.com/license.php)` `PHP`
   
@@ -113,3 +108,6 @@
 ## Remote Support
 
  * [ScreenConnect](https://www.screenconnect.com/) `⊘ Proprietary` - ScreenConnect offers lightning-fast remote support and remote access to connect instantly and solve problems faster.
+ * [RemoteUtilities](https://www.remoteutilities.com/) `⊘ Proprietary` - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet.
+
+ 
