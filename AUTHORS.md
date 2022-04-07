@@ -373,7 +373,6 @@
 |1|L1Cafe <L-Cafe-github@tuta.io>|
 |1|LB (Ben Johnston) <mail@lb.ee>|
 |1|Leonard Thomas Wall <github@tenchooo.me>|
-|1|Lescaudron Mathieu <mathieu@lescaudron.com>|
 |1|Liran Tal <liran.tal@gmail.com>|
 |1|Marcin Karpezo <m.karpezo@nencki.gov.pl>|
 |1|Marco Dickert <dickert.marco@gmail.com>|
